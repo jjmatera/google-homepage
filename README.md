@@ -1,1 +1,1 @@
-#adds all files that are in your current directory and which you've
+google-homepagehttp://www.theodinproject.com/web-development-101/html-css?ref=lnav
